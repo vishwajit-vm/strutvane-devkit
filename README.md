@@ -1,3 +1,10 @@
+> [!IMPORTANT]
+> **This repository is archived (2026-11-15).** Its code moved, with full git history, into
+> [`strutvane-framework`](https://github.com/vishwajit-vm/strutvane-framework): import it from
+> `@strutvane/framework/devkit` instead of `@strutvane/devkit`. Development continues there (branch
+> `v2/consolidate` until it lands on `main`). The npm package `@strutvane/devkit` will be deprecated
+> with a pointer once the framework v2 release is published. Nothing was deleted.
+
 <div align="center">
 
 # Strutvane Devkit
